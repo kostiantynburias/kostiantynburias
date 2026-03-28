@@ -24,7 +24,7 @@ I am a dedicated developer with **3 months of commercial experience**, specializ
 | :--- | :--- |
 | **Backend** | Python, Django (DRF), Flask, Celery, Redis, PostgreSQL |
 | **Frontend** | JavaScript (ES6+), HTMX, Bootstrap 5, HTML5/CSS3 |
-| **Tools** | Docker, Docker Compose, Git, GitHub, Linux (Bash), Nginx |
+| **Tools** | Docker, Docker Compose, Git, GitHub, Postman |
 | **Concepts** | RESTful APIs, JWT, Asynchronous Processing, Monolithic Architecture |
 
 ---
