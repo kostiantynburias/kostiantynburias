@@ -1,6 +1,6 @@
 # Hi there, I'm Kostiantyn! 👋
 
-### 👨‍💻 Fullstack Python Developer
+### 👨‍💻 Backend Python Developer
 I am a dedicated developer with **3 months of commercial experience**, specializing in building functional backends and interactive web interfaces. I focus on writing clean code, optimizing database queries, and handling asynchronous tasks.
 
 - 🏗️ Currently working with: **Django (DRF), Flask, Celery & Redis**
