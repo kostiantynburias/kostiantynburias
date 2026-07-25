@@ -24,7 +24,7 @@ Junior Python Developer | Django & Flask Specialist
 ## 🚀 My Projects
 
 ### 📚 Bookstore API
-A fully-featured REST API for a bookstore application, designed with atomic checkouts, race-condition prevention (select_for_update), and background task processing
+A fully-featured REST API for a bookstore application, designed with atomic checkouts, race-condition prevention (select_for_update), and background task processing.
 * **Description:** Atomically processes shopping cart checkouts, prevents stock race-conditions `select_for_update`, and handles automated task scheduling.
 * **Stack:** Python, Django, DRF, PostgreSQL, Redis, Celery, Docker & Docker Compose.
 * **Repo:** [github.com/kostiantynburias/bookstore-api](https://github.com/kostiantynburias/bookstore-api)
