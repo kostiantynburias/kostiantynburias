@@ -24,13 +24,11 @@ Junior Python Developer | Django & Flask Specialist
 ## 🚀 My Projects
 
 ### 📚 Bookstore API
-A fully-featured REST API for a bookstore application, designed with atomic checkouts, race-condition prevention (select_for_update), and background task processing.
-* **Description:** Atomically processes shopping cart checkouts, prevents stock race-conditions `select_for_update`, and handles automated task scheduling.
+* **Description:** A multi-container REST API featuring atomic checkouts, race-condition prevention (`select_for_update`), and background task scheduling.
 * **Stack:** Python, Django, DRF, PostgreSQL, Redis, Celery, Docker & Docker Compose.
 * **Repo:** [github.com/kostiantynburias/bookstore-api](https://github.com/kostiantynburias/bookstore-api)
 
 ### 📋 ToDo Task Manager
-A modular web application engineered for robust task management, user isolation, and automated scheduling.
-* **Description:** Features a complete user authorization flow, database migrations tracking, advanced form validation, and asynchronous background notifications.
+* **Description:** A modular web application engineered for task management with user isolation, dual authentication (Session & JWT), and async notifications.
 * **Stack:** Python, Flask, Flask-SQLAlchemy, Flask-Migrate, Flask-JWT-Extended, Celery, Redis.
 * **Repo:** [github.com/kostiantynburias/ToDo](https://github.com/kostiantynburias/ToDo)
